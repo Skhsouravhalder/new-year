@@ -1,0 +1,126 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.plus-jakarta-sans-font {
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+.main{
+    max-width: 1320px;
+    margin: 0px auto;
+}
+.baner{
+   background-image: linear-gradient( black , rgba(0, 0, 0, 0)) , url(/images/Banner\ Image.png);
+   height: 600px;
+   /* margin: 50px 140px 0px 140px; */
+   border-radius: 16px;
+   width: 1320px;
+   margin: 0px auto;
+   margin-top: 50px;
+  
+}
+.baner-continer{
+    padding: 177px 344px 177px 344px;
+    text-align: center;
+   
+}
+.title{
+    font-size: 32px;
+    font-weight: 600px;
+    color: #FFFFFF;
+}
+.tit-dic{
+    font-size: 72px;
+    font-weight: 600;
+    color: #FFFFFF;
+}
+.banar-2{
+    margin: 120px 258px 120px 258px;
+    width: 802px;
+    height: 806px;
+}
+.banar-2 h1{
+font-size: 88px;
+font-weight: bold;
+color: #FF0000;
+text-align: center;
+}
+.baner-cot{
+    text-align: center;
+    margin-top: 48px;
+}
+.baner-cot h6{
+font-size: 24px;
+font-weight: 500px;
+color:#FF0000;
+}
+.baner-cot h3{
+margin-top: 16px;
+font-size: 48px;
+font-weight: bold;
+color: #070211;
+}
+.baner-cot img{
+    margin-top: 48px;
+    width: 802px;
+    height: 500px;
+}
+.bannar-3{
+    background-image:linear-gradient(to right, black, rgba(0, 0, 0, 0)) , url(/images/Vectorrr.png);
+    display: flex;
+    border-radius: 16px;
+   
+}
+.ban{
+    margin: 126px;
+}
+.ban h1{
+    color: #FFFFFF;
+    font-size: 64px;
+}
+.ban p{
+    color: #FFFFFF;
+   font-size: 18px;
+   margin-top: 24px;
+    
+}
+.ban h5 {
+    font-size: 20px;
+    color: #FFFFFF;
+    margin-top: 48px;
+    background-color:none;
+}
+.text-bo{
+    margin-top: 120px;
+    text-align: center;
+    height: 482px;
+   background-image: linear-gradient( to bottom , #ff00001a, #ff000000);
+   border-radius: 16px;
+}
+.text-bo-ch{
+    text-align: center;
+    padding: 100px 386px 110px 386px;
+}
+.bo-ch{
+    color: #070211;
+    font-size: 32px;
+    font-weight: 600;
+}
+.bo-ch span{
+     font-size: 32px;
+    font-weight: 600;
+    color: #FF0000;
+}
+.text-bo-ch button {
+    background-color: #FF0000;
+    border-radius: 8px;
+    color: #FFFFFF;
+    border: none;
+    font-size: 20x;
+    font-weight: bold;
+    padding: 16px 32px 16px 32px;
+    margin-top: 64px;
+}

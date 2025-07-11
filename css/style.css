@@ -1,0 +1,115 @@
+
+.plus-jakarta-sans-text {
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+*{
+    /* margin: 40px 140px 0px 140px ; */
+   
+} 
+.banaer{
+    background-image: url(/images/Banner\ Image.png);
+    background-repeat: no-repeat;
+     width: 1320px;
+    height: 600px; 
+     margin: 50px 140px 120px 140px;
+    /* background-image: linear-gradient(#070211); */
+     border-radius: 16px;
+     
+}
+.banaer-1{
+    text-align: center;
+    width: 632px;
+    height: 246px;
+    padding:  233px 344px 177px 344px;
+     
+}
+.title{
+    font-size: 32x;
+    font-weight: 600;
+    color: #FFFFFF;
+
+
+}
+.title-2{
+    font-size: 72px;
+    color: #FFFFFF;
+margin-top: 16px;
+
+font-weight: 900px;
+}
+.fa{
+  margin: 120px 398px 120px 398px;   
+text-align: center;
+    width: 802.9px;
+    height: 806px;
+  justify-content: center
+}
+
+.ti{
+    font-size: 88px;
+    font-weight: bold;
+    color: #FF0000;
+  text-align: center;
+}
+.new-off{
+    text-align: center;
+    width: 383px;
+    height: 107px;
+   
+    text-align: center;
+}
+.fa-child{
+    margin-top: 48px;
+    
+}
+.ti-2{
+    font-size: 24px;
+    color: #FF0000;
+    font-weight: 500px;
+    
+}
+.ti-3{
+    color:#070211;
+    font-size: 48px;
+    font-weight: bold;
+}
+.imgh{
+    width: 802px;
+    height: 500px;
+}
+.ban{
+padding: 100px;
+
+    
+}
+ 
+.wel{
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 64px;
+    /* margin: 126px 552px 298px 126px; */
+    /* flex-wrap: wrap; */
+   
+}
+.father{
+    background-image: url(/images/Vectorrr.png);
+    background-repeat: no-repeat;
+    width: 1320px;
+    height: 600px;
+    margin: 120px 140px 120px 140px;
+    display: flex;
+}
+.bf{
+
+
+
+    margin: 0px 140px 0px 140px;
+}
+.baner-9{
+   width: 1320px;
+   height: 482px;
+    text-align: center;
+    margin: 100px 386px 110px 385px ;
+}

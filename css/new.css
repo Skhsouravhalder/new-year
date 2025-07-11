@@ -1,0 +1,38 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+/* typography */
+.open-sans-font {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-variation-settings: "wdth" 100;
+}
+/* main style */
+main {
+ max-width: 1320px;
+  margin: 0px auto;
+}
+.banaer-1{
+    background-image:linear-gradient(black, rgba(0, 0, 0, 0) ), url(/images/Banner\ Image.png);
+    background-repeat: no-repeat;
+/*  */
+    height: 600px;
+    margin: 50px 140px 0px 140px;
+    max-width: 1320px;
+}
+.head-title{
+
+color: #FFFFFF ;
+font-weight: 600;
+font-size: 32px;
+}
+.head-title-2{
+color: #FFFFFF;
+font-size: 72px;
+font-weight: 600px;
+}
+.banaer-child{
+  padding: 177px 344px 177px 344px;
+  text-align: center;
+}
