@@ -259,3 +259,20 @@ font-weight: 600;
     padding: 80px 212px 200px 212px; 
     padding-top: 80px;
 }
+.ft-father{
+    display: flex;
+    background-color: #070211;
+    height: 609px;
+    max-width:1600px;
+    margin-top: 120px;
+    
+}
+.ft-1{
+    font-size: 24px;
+    color: #FFFFFF;
+    font-weight: 600;
+    padding-top: 120px;
+    padding-left: 140px;
+    width: 375px;
+    height: 80px;
+}
