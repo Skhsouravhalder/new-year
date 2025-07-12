@@ -125,11 +125,11 @@ color: #070211;
     margin-top: 64px;
 }
 .banaer-4{
-    display: flex;
-    /* height: 463px; */
-    margin-top: 120px;
-   justify-content: space-around;
+  display: flex;
+  height: 463px; 
+  margin-top: 120px; 
   border: 2px solid;
+ 
 }
 .baner-6 {
      padding: 104px 70px 0px; 
@@ -148,7 +148,7 @@ color: #070211;
 }
 .baner-6 p{
     margin-top: 22px;
-    /* color: #070211; */
+   
     font-weight: 300px;
     font-size: 20px;
   
@@ -156,14 +156,18 @@ color: #070211;
 .img-1{
     padding-left: 70px;
     padding-right: 118px;
+    height: 463px;
+    width: 463px;
 }
 .baner-9{
-    margin-top: 112px;
+    padding: 112px 0px 0px;
+
 }
 .baner-9 h1{
     font-size: 48px;
     font-weight: bold;
     color: #FF0000;
+   
 }
 .baner-9 p{
     margin-top: 16px;
@@ -171,14 +175,87 @@ color: #070211;
     font-weight: 600px;
     color: #0702114f;
 }
-.baner-9 img{
-    margin-top: 43px;
-    width: 140px;
-   
-}
+
 .baner-8{
     margin-top: 120px;
+    text-align: center;
 }
 .img-father{
     display: flex;
+    margin-top: 92px;
+}
+
+.bn-1{
+    font-size: 24px;
+    color: #070211;
+    font-weight: 600;
+
+}
+.bn-2{
+    font-size: 72px;
+    font-weight: 800;
+    color: #070211;
+    margin-top: 16px;
+}
+.bn-2 span{
+    color: #FF0000;
+}
+.bn-3{
+    margin-top: 28px;
+    font-size: 20px;
+    font-weight: 400px;
+    color: #0702118a;
+}
+.as{
+ z-index: auto inherit;
+}
+.img-ch-2{
+    display: block;
+    text-align: center;
+}
+
+.ig-1{
+    gap: 24px;
+    width: 424px;
+    height: 450px;
+    display: flex;
+    margin-top: 48px;
+}
+.ig-2{
+    gap: 24px;
+    width: 424px;
+    height: 450px;
+    display: flex;
+    margin-top: 24px;
+}
+.baner-2{
+    margin-top: 92px;
+}
+.baner-2 h5{
+color: #FF0000;
+font-size: 24px;
+font-weight: 600;
+}
+.baner-2 h1{
+    margin-top: 16px;
+    font-size: 48px;
+    font-weight: 800;
+    color: #070211;
+}
+.baner-2 p{
+    font-size: 20px;
+    margin-top: 22px;
+    font-weight: 600;
+    color: #07021168;
+}
+.ls{
+    background-color: #ff00001d;
+    height: 616px;
+    margin-top: 120px;
+    border-radius: 16px;
+}
+.ls-1{
+    text-align: center;
+    padding: 80px 212px 200px 212px; 
+    padding-top: 80px;
 }
